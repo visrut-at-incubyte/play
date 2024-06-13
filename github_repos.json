@@ -1,0 +1,442 @@
+[
+    {
+        "name": "FAE",
+        "url": "https://github.com/wearefine/fae/"
+    },
+    {
+        "name": "activeWorkflow",
+        "url": "https://github.com/automaticmode/active_workflow"
+    },
+    {
+        "name": "adopt-a-hydrant",
+        "url": "https://github.com/codeforamerica/adopt-a-hydrant"
+    },
+    {
+        "name": "airCasting",
+        "url": "https://github.com/HabitatMap/AirCasting"
+    },
+    {
+        "name": "alaveteli",
+        "url": "https://github.com/mysociety/alaveteli"
+    },
+    {
+        "name": "alonetone",
+        "url": "https://github.com/sudara/alonetone"
+    },
+    {
+        "name": "api.rss",
+        "url": "https://github.com/davidesantangelo/api.rss"
+    },
+    {
+        "name": "asakusaSatellite",
+        "url": "https://github.com/codefirst/AsakusaSatellite"
+    },
+    {
+        "name": "askaway",
+        "url": "https://github.com/askaway/askaway"
+    },
+    {
+        "name": "autolab",
+        "url": "https://github.com/autolab/Autolab"
+    },
+    {
+        "name": "beatstream",
+        "url": "https://github.com/Darep/Beatstream"
+    },
+    {
+        "name": "bike_index",
+        "url": "https://github.com/bikeindex/bike_index"
+    },
+    {
+        "name": "blackCandy",
+        "url": "https://github.com/blackcandy-org/black_candy"
+    },
+    {
+        "name": "brimir",
+        "url": "https://github.com/ivaldi/brimir"
+    },
+    {
+        "name": "calagator",
+        "url": "https://github.com/calagator/calagator"
+    },
+    {
+        "name": "campo",
+        "url": "https://github.com/chloerei/campo"
+    },
+    {
+        "name": "canvas-lms",
+        "url": "https://github.com/instructure/canvas-lms"
+    },
+    {
+        "name": "catarse",
+        "url": "https://github.com/catarse/catarse"
+    },
+    {
+        "name": "chatwoot",
+        "url": "https://github.com/chatwoot/chatwoot"
+    },
+    {
+        "name": "chronlife",
+        "url": "https://github.com/maciejb2k/chronlife"
+    },
+    {
+        "name": "ciao",
+        "url": "https://github.com/brotandgames/ciao"
+    },
+    {
+        "name": "coRM",
+        "url": "https://github.com/SIGIRE/CoRM"
+    },
+    {
+        "name": "coderwall (legacy)",
+        "url": "legacy"
+    },
+    {
+        "name": "coderwall (next)",
+        "url": "next"
+    },
+    {
+        "name": "codetriage",
+        "url": "https://github.com/codetriage/codetriage"
+    },
+    {
+        "name": "commudle",
+        "url": "https://github.com/commudle/commudle"
+    },
+    {
+        "name": "contribulator",
+        "url": "https://github.com/24pullrequests/contribulator"
+    },
+    {
+        "name": "coursemology2",
+        "url": "https://github.com/Coursemology/coursemology2"
+    },
+    {
+        "name": "covoiturage-libre",
+        "url": "https://github.com/covoiturage-libre/covoiturage-libre"
+    },
+    {
+        "name": "crabgrass-core",
+        "url": "https://0xacab.org/liberate/crabgrass"
+    },
+    {
+        "name": "crowdAI",
+        "url": "https://github.com/crowdAI/crowdai"
+    },
+    {
+        "name": "crowdtiltOpen",
+        "url": "https://github.com/Crowdtilt/CrowdtiltOpen"
+    },
+    {
+        "name": "cw-ovp",
+        "url": "https://github.com/x1wins/CW-OVP"
+    },
+    {
+        "name": "danbooru",
+        "url": "https://github.com/danbooru/danbooru"
+    },
+    {
+        "name": "dcaf_case_management",
+        "url": "https://github.com/DARIAEngineering/dcaf_case_management"
+    },
+    {
+        "name": "dgidb",
+        "url": "https://github.com/dgidb/dgidb"
+    },
+    {
+        "name": "diaspora",
+        "url": "https://github.com/diaspora/diaspora"
+    },
+    {
+        "name": "discourse",
+        "url": "https://github.com/discourse/discourse"
+    },
+    {
+        "name": "docuseal",
+        "url": "https://github.com/docusealco/docuseal"
+    },
+    {
+        "name": "ekylibre",
+        "url": "https://github.com/ekylibre/ekylibre"
+    },
+    {
+        "name": "encrypt.to",
+        "url": "https://github.com/encrypt-to/encrypt.to"
+    },
+    {
+        "name": "eol",
+        "url": "https://github.com/EOL/deprecated_eol"
+    },
+    {
+        "name": "expertiza",
+        "url": "https://github.com/expertiza/expertiza"
+    },
+    {
+        "name": "fairmondo",
+        "url": "https://github.com/fairmondo/fairmondo"
+    },
+    {
+        "name": "fat-free-crm",
+        "url": "https://github.com/fatfreecrm/fat_free_crm"
+    },
+    {
+        "name": "feedbin",
+        "url": "https://github.com/feedbin/feedbin"
+    },
+    {
+        "name": "follow-all",
+        "url": "https://github.com/codeforamerica/follow-all"
+    },
+    {
+        "name": "forem",
+        "url": "https://github.com/forem/forem"
+    },
+    {
+        "name": "fromthepage",
+        "url": "https://github.com/benwbrum/fromthepage"
+    },
+    {
+        "name": "gitlabhq",
+        "url": "https://github.com/gitlabhq/gitlabhq"
+    },
+    {
+        "name": "graff_mags",
+        "url": "https://github.com/dankleiman/graff_mags"
+    },
+    {
+        "name": "granny",
+        "url": "https://github.com/roberthopman/granny"
+    },
+    {
+        "name": "growstuff",
+        "url": "https://github.com/Growstuff/growstuff"
+    },
+    {
+        "name": "hackershare",
+        "url": "https://github.com/hackershare/hackershare"
+    },
+    {
+        "name": "hashrobot",
+        "url": "https://github.com/rysmith/hashrobot"
+    },
+    {
+        "name": "helpy",
+        "url": "https://github.com/helpyio/helpy"
+    },
+    {
+        "name": "hitobito",
+        "url": "https://github.com/hitobito/hitobito"
+    },
+    {
+        "name": "hours",
+        "url": "https://github.com/defactosoftware/hours"
+    },
+    {
+        "name": "human-essentials",
+        "url": "https://github.com/rubyforgood/human-essentials"
+    },
+    {
+        "name": "inaturalist",
+        "url": "https://github.com/inaturalist/inaturalist"
+    },
+    {
+        "name": "intercityup.com",
+        "url": "https://github.com/intercity/intercity-next"
+    },
+    {
+        "name": "kanban",
+        "url": "https://github.com/seanomlor/kanban"
+    },
+    {
+        "name": "kitsu-tools",
+        "url": "https://github.com/hummingbird-me/kitsu-tools"
+    },
+    {
+        "name": "lavish",
+        "url": "https://github.com/mquan/lavish"
+    },
+    {
+        "name": "lifeToRemind",
+        "url": "https://github.com/eduqg/LifeToRemind"
+    },
+    {
+        "name": "lobsters",
+        "url": "https://github.com/lobsters/lobsters"
+    },
+    {
+        "name": "loomio",
+        "url": "https://github.com/loomio/loomio"
+    },
+    {
+        "name": "mastodon",
+        "url": "https://github.com/mastodon/mastodon"
+    },
+    {
+        "name": "multiwoven",
+        "url": "https://github.com/Multiwoven/multiwoven"
+    },
+    {
+        "name": "obl.ong",
+        "url": "https://github.com/obl-ong/admin"
+    },
+    {
+        "name": "obtvse2",
+        "url": "https://github.com/natew/obtvse2"
+    },
+    {
+        "name": "onebody",
+        "url": "https://github.com/seven1m/onebody"
+    },
+    {
+        "name": "openFarm",
+        "url": "https://github.com/openfarmcc/OpenFarm"
+    },
+    {
+        "name": "opencongress",
+        "url": "https://github.com/sunlightlabs/opencongress"
+    },
+    {
+        "name": "openproject",
+        "url": "https://github.com/opf/openproject"
+    },
+    {
+        "name": "opensourcefriday",
+        "url": "https://github.com/github/opensourcefriday"
+    },
+    {
+        "name": "openstreetmap-website",
+        "url": "https://github.com/openstreetmap/openstreetmap-website"
+    },
+    {
+        "name": "otwarchive",
+        "url": "https://github.com/otwcode/otwarchive"
+    },
+    {
+        "name": "passwordPusher",
+        "url": "https://github.com/pglombardo/PasswordPusher"
+    },
+    {
+        "name": "peatio",
+        "url": "https://github.com/peatio/peatio"
+    },
+    {
+        "name": "planningalerts-app",
+        "url": "https://github.com/openaustralia/planningalerts"
+    },
+    {
+        "name": "podiscover",
+        "url": "https://github.com/enderahmetyurt/podiscover"
+    },
+    {
+        "name": "popHealth",
+        "url": "https://github.com/pophealth/popHealth"
+    },
+    {
+        "name": "postal",
+        "url": "https://github.com/postalserver/postal"
+    },
+    {
+        "name": "publify",
+        "url": "https://github.com/publify/publify"
+    },
+    {
+        "name": "quant",
+        "url": "https://github.com/jdjkelly/quant"
+    },
+    {
+        "name": "racing_on_rails",
+        "url": "https://github.com/scottwillson/racing_on_rails"
+    },
+    {
+        "name": "rapidFTR",
+        "url": "https://github.com/rapidftr/RapidFTR"
+    },
+    {
+        "name": "redmine",
+        "url": "https://github.com/edavis10/redmine"
+    },
+    {
+        "name": "rentmybikes-rails",
+        "url": "https://github.com/balanced/rentmybikes-rails"
+    },
+    {
+        "name": "reservations",
+        "url": "https://github.com/YaleSTC/reservations"
+    },
+    {
+        "name": "retrospring",
+        "url": "https://github.com/retrospring/retrospring"
+    },
+    {
+        "name": "rletters",
+        "url": "https://codeberg.org/rletters/rletters"
+    },
+    {
+        "name": "rubygems.org",
+        "url": "https://github.com/rubygems/rubygems.org"
+    },
+    {
+        "name": "sanataro",
+        "url": "https://github.com/kaznum/sanataro"
+    },
+    {
+        "name": "scholarsphere",
+        "url": "https://github.com/psu-libraries/scholarsphere"
+    },
+    {
+        "name": "selfstarter",
+        "url": "https://github.com/apigy/selfstarter"
+    },
+    {
+        "name": "sharetribe",
+        "url": "https://github.com/sharetribe/sharetribe"
+    },
+    {
+        "name": "socify",
+        "url": "https://github.com/scaffeinate/socify"
+    },
+    {
+        "name": "somleng",
+        "url": "https://github.com/somleng/somleng"
+    },
+    {
+        "name": "splits-io",
+        "url": "https://github.com/glacials/splits-io"
+    },
+    {
+        "name": "spokenvote",
+        "url": "https://github.com/Spokenvote/spokenvote"
+    },
+    {
+        "name": "stackneveroverflow",
+        "url": "https://github.com/liaoziyang/stackneveroverflow"
+    },
+    {
+        "name": "teambox",
+        "url": "https://github.com/redbooth/teambox"
+    },
+    {
+        "name": "theodinproject",
+        "url": "https://github.com/TheOdinProject/theodinproject"
+    },
+    {
+        "name": "tracks",
+        "url": "https://github.com/TracksApp/tracks"
+    },
+    {
+        "name": "trado",
+        "url": "https://github.com/Jellyfishboy/trado"
+    },
+    {
+        "name": "vglist",
+        "url": "https://github.com/connorshea/vglist"
+    },
+    {
+        "name": "websiteOne",
+        "url": "https://github.com/AgileVentures/WebsiteOne"
+    },
+    {
+        "name": "whitehall",
+        "url": "https://github.com/alphagov/whitehall"
+    }
+]
